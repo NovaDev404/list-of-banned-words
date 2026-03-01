@@ -4,39 +4,13 @@ With millions of images in our library and billions of user-submitted keywords, 
 
 Please add to it as you see fit (particularly in non-English languages) or use it to spice up your next game of Scrabble :)
 
-Obvious warning: These lists contain material that many will find offensive.  (But that's the point!)
+Obvious warning: This list contains material that many will find offensive.  (But that's the point!)
 
-Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our case, the question we use is, "What wouldn't we want to *suggest* that people look at?"  This of course varies between culture, language, and geographies, so in the end we just have to make our best guess.
+Miscellaneous caveat: Clearly, what goes in this list is subjective.  In our case, the question we use is, "What wouldn't we want to *suggest* that people look at?"  This of course varies between culture, language, and geographies, so in the end we just have to make our best guess.
 
-## Languages
+## Word list
 
-| Name             | Code |
-| ---------------- | ---- |
-| [Arabic](ar)     | ar   |
-| [Chinese](zh)    | zh   |
-| [Czech](cs)      | cs   |
-| [Danish](da)     | da   |
-| [Dutch](nl)      | nl   |
-| [English](en)    | en   |
-| [Esperanto](eo)  | eo   |
-| [Finnish](fi)    | fi   |
-| [French](fr)     | fr   |
-| [German](de)     | de   |
-| [Hindi](hi)      | hi   |
-| [Hungarian](hu)  | hu   |
-| [Italian](it)    | it   |
-| [Japanese](ja)   | ja   |
-| [Klingon](tlh)   | tlh  |
-| [Korean](ko)     | ko   |
-| [Norwegian](no)  | no   |
-| [Persian](fa)    | fa   |
-| [Polish](pl)     | pl   |
-| [Portuguese](pt) | pt   |
-| [Russian](ru)    | ru   |
-| [Spanish](es)    | es   |
-| [Swedish](sv)    | sv   |
-| [Thai](th)       | th   |
-| [Turkish](tr)    | tr   |
+All entries are now combined in a single file: [all_bad_words.txt](all_bad_words.txt).
 
 See also the [list of projects, documents, and organizations](USERS.md) that use these lists.
 
